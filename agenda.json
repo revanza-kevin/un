@@ -1,0 +1,22 @@
+[
+  {
+    "foto": "assets/gallery/smart-education.jpg",
+    "judul": "Smart Education",
+    "kategori": "Pendidikan"
+  },
+  {
+    "foto": "assets/gallery/kajian.jpg",
+    "judul": "Kajian Remaja",
+    "kategori": "Keagamaan"
+  },
+  {
+    "foto": "assets/gallery/maulid.jpg",
+    "judul": "Maulid Nabi",
+    "kategori": "Keagamaan"
+  },
+  {
+    "foto": "assets/gallery/kerja-bakti.jpg",
+    "judul": "Kerja Bakti",
+    "kategori": "Sosial"
+  }
+]
